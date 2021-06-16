@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us remove bugs
+about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: ''
+assignees: yasharth1
 
 ---
 
@@ -12,9 +12,9 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to 'Repository Name (eg:- color-changing-webpage)'
-2. Click on 'File Name (e.g:- index.html)'
-3. Scroll down to 'Line number (e.g:- line 5)'
+1. Go to 'folder(if any) (eg: color-changing-webpage)'
+2. Click on 'file (eg-index.html)'
+3. Scroll down to 'line number (eg: line 5)'
 4. See error
 
 **Expected behavior**
@@ -34,5 +34,5 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional info**
-Add any other info about the problem here.
+**Additional context**
+Add any other context about the problem here.
